@@ -60,7 +60,7 @@ http://localhost:8000/docs
 python -m venv .venv
 ```
 
-## Активация окружения:
+**Активация окружения:**
 
 Linux/macOS:
 ```bash
